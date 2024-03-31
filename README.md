@@ -36,3 +36,5 @@ Uma biblioteca de grafos feita em Python.
    Todos os argumentos sao obrigatórios e do tipo inteiro
 
 Basta adicionar as linhas no arquivo ExportGraph.py na função main, antes das chamadas de funções responsáveis pela exportação
+
+Trabalho feito por Bernardo Parreiras Prado, João Paulo Aguiar Prado e Leonardo Piuzana Pizani.
